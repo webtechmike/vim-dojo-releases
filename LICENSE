@@ -1,0 +1,114 @@
+END-USER LICENSE AGREEMENT (EULA) FOR VIM DOJO
+
+Last Updated: September 24, 2026
+
+Please read this End-User License Agreement ("Agreement") carefully before
+downloading, installing, or using the Vim Dojo application ("Software"). By
+using the Software, you agree to be bound by the terms of this Agreement. If
+you do not agree, do not install or use the Software.
+
+This Agreement is between you and Michael Bergen
+("the developer"). Questions and support: webtechmike@gmail.com.
+
+
+1. License Grant & Paid Upgrades
+
+   Free Tier License: Vim Dojo grants you a limited, non-exclusive,
+   non-transferable, revocable license to use the Software's first three belts
+   (White, Yellow and Orange) for personal evaluation.
+
+   Premium Level License: Access to content beyond the first three belts,
+   including the daily kata past Black Belt, requires the purchase of a
+   premium software license fee. Upon verified payment, your license expands
+   to unlock the full training curriculum for personal use on one device at
+   a time. To move your license to another device, run "vim-dojo --deactivate"
+   on the old device first.
+
+   Scope: This license is strictly for personal, non-commercial educational
+   use.
+
+   Open Source Components: This Software may utilize components governed by
+   open-source licenses. Nothing in this Agreement replaces or overrides your
+   rights under those specific open-source licenses. These components and
+   their licenses are listed in the THIRD-PARTY-NOTICES file included with
+   the Software.
+
+
+2. Restrictions on Use
+
+   You agree not to, and will not permit others to:
+
+   Bypass Licensing: Modify, hack, or attempt to bypass the software checks
+   that restrict access to content beyond the first three belts without a
+   valid paid upgrade.
+
+   Reverse Engineer: Decompile, disassemble, reverse engineer, or attempt to
+   derive the source code of the Software.
+
+   Redistribute: Rent, lease, lend, sell, redistribute, or sublicense the
+   Software, its level configurations, or any interactive training assets.
+
+
+3. Local Data & Privacy
+
+   Local Storage: Your training progress, metrics, and scores are stored only
+   on your device. Vim Dojo does not sync them online.
+
+   License Verification: To verify a premium license, the Software contacts
+   our payment provider, Polar, when you activate or deactivate a license key
+   and about once a week afterwards. It sends your license key, a one-way
+   hash of your device's hardware identifier, and your computer's name.
+   Nothing else is sent.
+
+   Data Loss: Because there is no cloud synchronization, backing up your app
+   data is your responsibility. The developer is not responsible for lost
+   progress resulting from app deletion, device failure, or factory resets.
+
+
+4. Intellectual Property Rights
+
+   Ownership: The developer retains all right, title, and interest in and to
+   the Software. This includes all code, interface designs, training
+   curricula, keyboard challenge logic, graphics, and text. This Agreement
+   grants a license to use the Software; it does not sell the underlying
+   intellectual property.
+
+
+5. Limitation of Liability
+
+   "As-Is" Provision: The Software is provided "AS IS" and "AS AVAILABLE" with
+   all faults and defects without warranty of any kind.
+
+   Muscle Memory & Keyboard Habituation: Vim Dojo is a training utility. The
+   developer is not liable for any productivity loss, accidental command line
+   errors, file deletions, or altered muscle memory resulting from your
+   practice or your customized keyboard layouts.
+
+   Maximum Liability: To the maximum extent permitted by applicable law, the
+   developer's total liability for any claims arising out of this Agreement
+   shall be limited to the amount you actually paid to unlock the Software.
+
+
+6. Governing Law & Global Distribution
+
+   Governing Law: This Agreement shall be governed by and construed in
+   accordance with the laws of the State of California, United States of
+   America, without regard to its conflict of law principles.
+
+   Export Control: You represent and warrant that you are not located in a
+   country that is subject to a U.S. Government embargo, or designated by the
+   U.S. Government as a "terrorist supporting" country.
+
+
+7. Termination
+
+   Breach: Your rights under this license will terminate automatically
+   without notice if you fail to comply with any terms of this Agreement
+   (such as distributing unauthorized cracks to unlock the belts beyond the
+   first three).
+
+   Refunds: The premium license ends if your payment is refunded or reversed,
+   including by chargeback. The free tier remains available.
+
+   Effect: Upon termination for breach, you must cease all use of the
+   Software and delete all copies from your devices.
