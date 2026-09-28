@@ -80,7 +80,9 @@ A refund ends the license; the free belts stay open.
 
 ## Help
 
-- **"That key was not recognized"**: check the key was copied whole.
+- **"That key was not recognized"**: use the license key from your purchase
+  email (36 characters, like `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX`), not the
+  order number, and check it was copied whole.
 - **"That key can't be activated here"**: it's most likely active on another
   machine. Run `vim-dojo --deactivate` there, then activate again here.
 - **Anything else**: email [webtechmike@gmail.com](mailto:webtechmike@gmail.com).
