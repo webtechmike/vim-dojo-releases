@@ -41,10 +41,8 @@ If your shell says `vim-dojo: command not found`, add
 `export PATH="$HOME/.local/bin:$PATH"` to your `~/.zshrc` (or `~/.bashrc`) and
 open a new terminal.
 
-Downloaded with a browser instead, macOS may say the developer cannot be
-verified. Clear the download flag once with
-`xattr -d com.apple.quarantine ~/.local/bin/vim-dojo`, or allow it under
-System Settings → Privacy & Security.
+The Mac files are signed and notarized by Apple, so they run without a
+security warning, whether you download them with `curl` or a browser.
 
 **Windows**: rename the file to `vim-dojo.exe` and run it from Windows Terminal
 or PowerShell. If SmartScreen warns you, choose **More info → Run anyway**.
